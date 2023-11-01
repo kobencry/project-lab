@@ -1,7 +1,6 @@
 ## **Project-lab** by __Kobencry__
 | Label |
 |--------|
-| algorithm |
 | python |
 | golang |
 | javascript |
